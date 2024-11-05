@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @xuantung
-- 👀 I’m interested in Mobile Developer
-- 🌱 I’m currently learning Computer Sience at HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Trust me I'm an engineer
+Trust me I'm an engineer
